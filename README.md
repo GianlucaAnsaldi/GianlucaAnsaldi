@@ -1,8 +1,8 @@
 # Gianluca Ansaldi
-[Tech Skills](#tech-skills) || [Soft Skills](#soft-skills) || [Projects](#projects) || [Education](#education) || [Working Experience](#working-experience)<br>
+[About me](#about-me) || [Why coding?](#why-coding) || [Tech Skills](#tech-skills) || [Soft Skills](#soft-skills) || [Projects](#projects) || [Education](#education) || [Working Experience](#working-experience)<br>
 <br>
 
-## Abut me
+## About me
 
 I am a Junior Full-Stack Developer, fresh out of Makers Academy bootcamp. Before that, an aspiring football player with a passion for data and finance. I moved to London in 2016 to pursue a career in this sector and I've worked as a Data Analyst for one of the most prestigious data providers in the financial industry. <br><br>
 I’ve always been a hardworking and fast learner individual seeking to improve myself and develop day by day and that was something that helped me in my years as a Data Analyst. Responsible and reliable, I have a keen eye for detail and good communication skills. During my career, I have grown as a subject-matter expert for the financial products I was covering, sharing my knowledge with the team and supporting them in a variety of projects and initiatives across different areas including, but not limited to, assuring data quality, generating efficiencies and workflow optimisation. 
