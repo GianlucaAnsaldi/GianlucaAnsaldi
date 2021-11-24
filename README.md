@@ -11,8 +11,8 @@ I’ve always been a hardworking and fast learner individual seeking to improve 
 
 I bumped into coding for the first time when I was 16 years old in high school, learning COBOL with a professor that wasn't really able get us passionate about it, so I took a different path at Uni and now here I am at it again, with a completely different perspective and a lot more experience as a person compared to that kid back in high school.
 
-What brought me back to coding is the fact that having such a career is a journey where you constantly need to evolve and learn, not knowing something is the normality and there is no shame in admitting it. 
-
+What brought me back to coding is the fact that having such a career is a journey where you constantly need to evolve and learn, not knowing something is almost the normality and there is no shame in admitting it. The solution is always somewhere out there, you just need to push yourself and learn how to do it!
+Having the chance to work closely with software developers in my previous role finally opened the door for me to what coding really is about. I started working with them on implementing solutions for our product and I realised the potential of that role for any organisation. From there I started doing some small projects myself to make my life easier, automating some tasks I was originally working on Excel and creating some dashboards to show the impact of the changes I was able to make. That was really what motivated me, I needed more of that and I knew that in order to do so I had to make a drastic change in my life, and now here I am.
 
 ## Tech Skills
 
